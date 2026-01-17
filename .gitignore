@@ -1,0 +1,8 @@
+*.pyc
+.*.swp
+*.pth
+**/__pycache__/**
+**/.mypy_cache/*
+.mypy_cache/*
+.vscode
+*_output/*
